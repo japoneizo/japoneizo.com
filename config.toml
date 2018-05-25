@@ -1,0 +1,20 @@
+baseURL = "https://japoneizo-com.firebaseapp.com/"
+languageCode = "en-us"
+title = "Eizo Nishime"
+theme = "hyde-hyde"
+sectionPagesMenu = "main"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "blog section"
+    url = "/blog/"
+    weight = -210
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    title = "blog section"
+    url = "/about/"
